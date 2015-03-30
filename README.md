@@ -1,2 +1,2 @@
 # git_training
-test by tejashree
+test by tejashree and rasika
